@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aryann2319
+- 👋 Hi, I’m Aryan Maan
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently in Second year of College
 - 📫 You can reach me by eamil: aryanmaan23192gmail.com
